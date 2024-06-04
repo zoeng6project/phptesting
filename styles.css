@@ -27,9 +27,7 @@ h1 {
 	height: 50px;
 	
 }
-#order{
-	text-align: center;
-}
+
 
 h2 {
 	color: #C88039;
@@ -59,9 +57,9 @@ div label {
 	text-align: right;
 	padding-right: 1em;
 }
-
-
-
+input[type="text"] {
+    text-align: left;
+}
 small {
 	font-size: 70%;
 }
