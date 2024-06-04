@@ -23,11 +23,10 @@
         </header>
         
 		<main>
-            <h2>Track your order !!!!</h2>
+            <h2>Track your order </h2>
             
                 <fieldset>
                     <legend>Order Input</legend>
-                    <h3></h3>
                     <form id  = "order"  method="post" >
                         <div>
                             <label for="mode">Transportation Mode :</label>
